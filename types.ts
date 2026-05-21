@@ -6,7 +6,7 @@ export type Model = {
   modality?: string;
   contextWindow?: string;
   pricingTier?: string;
+  intelligenceIndex?: number;
   strengths?: string;
   description?: string;
 };
-
