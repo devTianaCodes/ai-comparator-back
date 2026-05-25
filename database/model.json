@@ -10,6 +10,7 @@
     "modality": "Testo e multimodale",
     "contextWindow": "Ampia",
     "pricingTier": "Premium",
+    "image": "/images/gpt-5-5.svg",
     "intelligenceIndex": 60,
     "strengths": "Ragionamento avanzato, programmazione, analisi e risoluzione generale di problemi.",
     "description": "Un modello frontier di riferimento, posizionato ai vertici dell'Artificial Analysis Intelligence Index."
@@ -25,6 +26,7 @@
     "modality": "Testo e multimodale",
     "contextWindow": "Ampia",
     "pricingTier": "Premium",
+    "image": "/images/claude-opus-4-7.svg",
     "intelligenceIndex": 57,
     "strengths": "Ragionamento solido, qualità della scrittura, revisione del codice ed esecuzione di attività complesse.",
     "description": "Un modello Anthropic ad alte prestazioni, vicino alle prime posizioni dell'Artificial Analysis Intelligence Index."
@@ -40,6 +42,7 @@
     "modality": "Testo, immagini e multimodale",
     "contextWindow": "Molto ampia",
     "pricingTier": "Premium",
+    "image": "/images/gemini-3-1-pro-preview.svg",
     "intelligenceIndex": 57,
     "strengths": "Ragionamento multimodale, attività su contesti lunghi, ricerca e analisi strutturata.",
     "description": "Un modello Google avanzato, con risultati solidi nell'Artificial Analysis Intelligence Index."
@@ -55,6 +58,7 @@
     "modality": "Testo",
     "contextWindow": "Ampia",
     "pricingTier": "A pagamento",
+    "image": "/images/qwen3-max.svg",
     "intelligenceIndex": 57,
     "strengths": "Ragionamento, attività multilingua e buona capacità di seguire istruzioni generali.",
     "description": "Un modello Alibaba competitivo, presente tra i modelli con punteggi elevati nell'Artificial Analysis Intelligence Index."
@@ -70,6 +74,7 @@
     "modality": "Testo, immagini e multimodale",
     "contextWindow": "Ampia",
     "pricingTier": "A pagamento",
+    "image": "/images/gemini-3-5-flash.svg",
     "intelligenceIndex": 55,
     "strengths": "Risposte rapide, attività multimodali e assistenza generale efficiente.",
     "description": "Un modello Google veloce, con un risultato elevato nell'Intelligence Index per un profilo orientato alla rapidità."
@@ -85,6 +90,7 @@
     "modality": "Testo",
     "contextWindow": "Ampia",
     "pricingTier": "A pagamento",
+    "image": "/images/kimi-k2-6.svg",
     "intelligenceIndex": 54,
     "strengths": "Ragionamento, programmazione, lavoro su contesti lunghi e risoluzione pratica di problemi.",
     "description": "Un modello Moonshot AI competitivo, incluso tra i modelli attuali con buone prestazioni nei benchmark."
@@ -100,6 +106,7 @@
     "modality": "Testo",
     "contextWindow": "Ampia",
     "pricingTier": "A pagamento",
+    "image": "/images/mimo-v2-5-pro.svg",
     "intelligenceIndex": 54,
     "strengths": "Ragionamento generale, attività tecniche e risposte strutturate.",
     "description": "Un modello Xiaomi presente tra i risultati attuali di alto livello di Artificial Analysis."
@@ -115,6 +122,7 @@
     "modality": "Testo",
     "contextWindow": "Ampia",
     "pricingTier": "Premium",
+    "image": "/images/grok-4.svg",
     "intelligenceIndex": 53,
     "strengths": "Ragionamento, risposte su temi attuali e ampia copertura di attività generali.",
     "description": "Un modello xAI con punteggio elevato, presente nel gruppo alto dei modelli analizzati da Artificial Analysis."
@@ -130,6 +138,7 @@
     "modality": "Testo e multimodale",
     "contextWindow": "Ampia",
     "pricingTier": "A pagamento",
+    "image": "/images/claude-sonnet-4-6.svg",
     "intelligenceIndex": 52,
     "strengths": "Ragionamento bilanciato, scrittura, supporto alla programmazione e produttività quotidiana.",
     "description": "Un modello Anthropic bilanciato, con buone prestazioni e costi inferiori rispetto ai modelli della classe Opus."
@@ -145,6 +154,7 @@
     "modality": "Testo",
     "contextWindow": "Ampia",
     "pricingTier": "A pagamento",
+    "image": "/images/deepseek-v4-pro.svg",
     "intelligenceIndex": 47,
     "strengths": "Ragionamento, programmazione e compatibilità con l'ecosistema dei modelli open.",
     "description": "Un modello DeepSeek orientato al ragionamento, adatto al confronto con modelli frontier proprietari."
